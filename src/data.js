@@ -8,6 +8,7 @@ export const initialTasks = [
       "Bugün öğrendiklerimizden hangilerini projede kullanabiliriz, hangi kısımları mevcut bilgimizle yapabiliriz?",
     people: ["ömer", "emre"],
     deadline: "2023-01-23",
+
     status: "yapıldı",
   },
   {
